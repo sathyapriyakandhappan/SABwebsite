@@ -145,7 +145,7 @@ export default function AdminProducts() {
       setFormError('');
       const res = await uploadApi.uploadSingle(uploadData);
       if (res.data.success) {
-        const fullUrl = `${import.meta.env.VITE_API_URL?.replace(/\/api$/, '') || 'http://localhost:5000'}${res.data.url}`;
+        const fullUrl = `${import.meta.env.VITE_API_URL?.replace(/\/api$/, '') || ''}${res.data.url}`;
         setFormData(prev => ({
           ...prev,
           image: fullUrl,
