@@ -100,7 +100,7 @@ export default function AdminPrograms() {
       setFormError('');
       const res = await uploadApi.uploadSingle(data);
       if (res.data.success) {
-        setFormData(prev => ({ ...prev, image: `http://localhost:5000${res.data.url}` }));
+        setFormData(prev => ({ ...prev, image: `${import.meta.env.VITE_API_URL?.replace(/\/api$/, '') || 'http://localhost:5000'}${res.data.url}` }));
       }
     } catch (err) {
       setFormError('Image upload failed.');
