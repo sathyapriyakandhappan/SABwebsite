@@ -1,5 +1,16 @@
 [
   {
+    "_id": "6affd9dd2191b3c7dc31bc46",
+    "name": "Azolla",
+    "slug": "azolla",
+    "description": "Fresh organic Azolla pinnata mother culture. Rapid nitrogen bio-fixer, green manure for paddy fields, and high-protein cattle feed.",
+    "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=800&q=80",
+    "status": "Active",
+    "createdAt": "2026-11-20T05:25:49.499Z",
+    "updatedAt": "2026-11-20T05:25:49.500Z",
+    "__v": 0
+  },
+  {
     "_id": "sab_mwnjdl72i9i28",
     "name": "Azolla",
     "slug": "azolla",

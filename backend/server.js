@@ -57,11 +57,37 @@ app.get('/api/health', (req, res) => {
 });
 
 // Serve frontend build (if present)
-const frontendDist = path.join(__dirname, '..', 'frontend', 'dist');
-if (fs.existsSync(frontendDist)) {
+const possibleDistPaths = [
+  path.join(__dirname, '..', 'frontend', 'dist'),
+  path.join(process.cwd(), 'frontend', 'dist'),
+  path.join(__dirname, 'dist'),
+  path.join(__dirname, 'public'),
+];
+
+const frontendDist = possibleDistPaths.find(p => fs.existsSync(path.join(p, 'index.html')));
+
+if (frontendDist) {
+  console.log(`[Frontend] Serving production build from: ${frontendDist}`);
   app.use(express.static(frontendDist));
-  app.get('/{*splat}', (req, res) => {
-    res.sendFile(path.join(frontendDist, 'index.html'));
+
+  // SPA fallback for React Router (supports Express 4 & Express 5 safely)
+  app.use((req, res, next) => {
+    if (req.method === 'GET' && !req.path.startsWith('/api') && !req.path.startsWith('/uploads')) {
+      return res.sendFile(path.join(frontendDist, 'index.html'));
+    }
+    next();
+  });
+} else {
+  console.warn('[Frontend WARNING] frontend/dist not found! Looked in:', possibleDistPaths);
+  app.get('/', (req, res) => {
+    res.send(`
+      <div style="font-family: sans-serif; text-align: center; padding: 50px;">
+        <h2>🌿 Sri Amman Biocare API is Running</h2>
+        <p>The backend server is online and connected.</p>
+        <p style="color: #666;">Note: Frontend build was not found in <code>frontend/dist</code>.</p>
+        <p><a href="/api/health" style="color: #15803d; font-weight: bold;">Check API Health Endpoint</a></p>
+      </div>
+    `);
   });
 }
 
