@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+  <defs>
+    <!-- Mask to create a negative space gap around the letters "SAB" -->
+    <mask id="sab-text-mask">
+      <!-- Everything white remains visible -->
+      <rect x="0" y="0" width="500" height="400" fill="#ffffff" />
+      <!-- Black text cuts holes in the masked elements -->
+      <text 
+        x="300" 
+        y="252" 
+        font-family="'Orbitron', 'Inter', 'Space Mono', sans-serif" 
+        font-weight="900" 
+        font-size="88" 
+        text-anchor="middle" 
+        dominant-baseline="central" 
+        fill="#000000" 
+        stroke="#000000" 
+        stroke-width="16" 
+        stroke-linejoin="round"
+      >SAB</text>
+    </mask>
+  </defs>
+
+  <!-- Background Beaker/Flask Outline (Neon Green) -->
+  <path 
+    d="M 70,340 C 70,340 160,200 180,140 L 180,60 L 250,60 L 250,110 C 250,135 275,150 300,150" 
+    stroke="#00FF9D" 
+    stroke-width="8" 
+    stroke-linecap="round" 
+    stroke-linejoin="round" 
+    fill="none" 
+  />
+  <path 
+    d="M 70,340 L 220,340" 
+    stroke="#00FF9D" 
+    stroke-width="8" 
+    stroke-linecap="round" 
+    fill="none" 
+  />
+
+  <!-- Outer Globe Circle (Neon Green) -->
+  <circle 
+    cx="300" 
+    cy="250" 
+    r="100" 
+    stroke="#00FF9D" 
+    stroke-width="8" 
+    fill="none" 
+  />
+
+  <!-- Masked Interior Elements (Speed stripes and Globe grids) -->
+  <g mask="url(#sab-text-mask)">
+    <!-- Horizontal Speed Stripes -->
+    <!-- Top to Bottom -->
+    <line x1="120" y1="222" x2="420" y2="222" stroke="#00FF9D" stroke-width="6" stroke-linecap="round" />
+    <line x1="105" y1="236" x2="435" y2="236" stroke="#00FF9D" stroke-width="6" stroke-linecap="round" />
+    <line x1="90" y1="250" x2="450" y2="250" stroke="#00FF9D" stroke-width="6" stroke-linecap="round" />
+    <line x1="105" y1="264" x2="435" y2="264" stroke="#00FF9D" stroke-width="6" stroke-linecap="round" />
+    <line x1="120" y1="278" x2="420" y2="278" stroke="#00FF9D" stroke-width="6" stroke-linecap="round" />
+
+    <!-- Globe Grid: Meridians -->
+    <ellipse cx="300" cy="250" rx="50" ry="100" stroke="#00FF9D" stroke-width="6" fill="none" />
+    <line x1="300" y1="150" x2="300" y2="350" stroke="#00FF9D" stroke-width="6" />
+
+    <!-- Globe Grid: Latitudes -->
+    <path d="M 215,200 Q 300,220 385,200" stroke="#00FF9D" stroke-width="6" fill="none" />
+    <path d="M 215,300 Q 300,280 385,300" stroke="#00FF9D" stroke-width="6" fill="none" />
+  </g>
+
+  <!-- Foreground Bold Text "SAB" (Accent Pink) -->
+  <text 
+    x="300" 
+    y="252" 
+    font-family="'Orbitron', 'Inter', 'Space Mono', sans-serif" 
+    font-weight="900" 
+    font-size="88" 
+    text-anchor="middle" 
+    dominant-baseline="central" 
+    fill="#FF2E63" 
+    letter-spacing="1"
+  >SAB</text>
+</svg>

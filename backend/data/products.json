@@ -1,0 +1,623 @@
+[
+  {
+    "_id": "sab_mwnjdl7jplbji",
+    "name": "Fresh Organic Azolla Pinnata Culture (Mother Stock)",
+    "slug": "fresh-organic-azolla-pinnata-culture-mother-stock",
+    "category": "Azolla",
+    "categoryId": "sab_mwnjdl72i9i28",
+    "price": 250,
+    "dosage": "1 - 2 Kg mother culture per pit (6x3 ft)",
+    "applicationMethod": "Inoculate in shallow farm water beds",
+    "description": "High-protein aquatic fern containing symbiotic Anabaena azollae. Outstanding green manure for paddy fields fixing 30-50 kg N/ha, and nutritious cattle/poultry feed.",
+    "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Species",
+        "value": "Azolla pinnata"
+      },
+      {
+        "key": "Protein Content",
+        "value": "25% - 30% crude protein"
+      },
+      {
+        "key": "Price",
+        "value": "₹250 per Kg"
+      }
+    ],
+    "features": [
+      "Multiplies double biomass in 3 to 5 days",
+      "Dual purpose: Bio-fertilizer & Livestock superfeed"
+    ],
+    "benefits": [
+      "Increases dairy cattle milk yield and fat percentage naturally"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:38:33.631Z",
+    "updatedAt": "2026-11-19T12:38:33.631Z"
+  },
+  {
+    "_id": "sab_mwnjdl7hufb6d",
+    "name": "Live African Nightcrawler Earthworms (Eudrilus Eugeniae)",
+    "slug": "live-african-nightcrawler-earthworms-eudrilus-eugeniae",
+    "category": "Earth worms",
+    "categoryId": "sab_mwnjdl70od8xf",
+    "price": 400,
+    "dosage": "2 - 3 Kg per vermicompost bed (10x3 ft)",
+    "applicationMethod": "Inoculation into moist organic compost bed",
+    "description": "Live adult breeding earthworms with egg cocoons. Highly active composting species converting farm waste into premium vermicompost in 45 days.",
+    "image": "https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Species",
+        "value": "Eudrilus eugeniae (African Nightcrawler)"
+      },
+      {
+        "key": "Packing",
+        "value": "Ventilated live moisture pack"
+      },
+      {
+        "key": "Price",
+        "value": "₹400 per Kg"
+      }
+    ],
+    "features": [
+      "Rapid breeding rate with heavy biomass decomposition efficiency",
+      "Suitable for tropical South Indian climate"
+    ],
+    "benefits": [
+      "Produces continuous organic vermicompost on your own farm"
+    ],
+    "status": "Active",
+    "createdAt": "2026-11-19T12:38:33.629Z",
+    "updatedAt": "2026-11-19T12:38:33.629Z"
+  },
+  {
+    "_id": "sab_mwnjdl7fl1hux",
+    "name": "SAB Enriched Organic Vermicompost (50 Kg)",
+    "slug": "sab-enriched-organic-vermicompost-50-kg",
+    "category": "Vermicompost",
+    "categoryId": "sab_mwnjdl6xl4w32",
+    "price": 450,
+    "dosage": "500 kg - 1 Ton per acre",
+    "applicationMethod": "Basal soil dressing before planting",
+    "description": "High-quality organic manure processed with African earthworms and enriched with Trichoderma and Azospirillum cultures.",
+    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Moisture Content",
+        "value": "20% max"
+      },
+      {
+        "key": "Organic Carbon",
+        "value": "18% min"
+      },
+      {
+        "key": "Packing",
+        "value": "50 Kg HDPE Bag"
+      },
+      {
+        "key": "Price",
+        "value": "₹450 per 50 Kg bag"
+      }
+    ],
+    "features": [
+      "Rich in microbial humus and earthworm castings",
+      "Improves aeration in clayey soil"
+    ],
+    "benefits": [
+      "Retains vital soil moisture and unlocks dormant nutrients"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:38:33.627Z",
+    "updatedAt": "2026-11-19T12:38:33.627Z"
+  },
+  {
+    "_id": "sab_mwnjdl7dztooy",
+    "name": "SAB Bio-Humic Seaweed Tonic (Bio Tonic)",
+    "slug": "sab-bio-humic-seaweed-tonic",
+    "category": "Bio tonics",
+    "categoryId": "sab_mwnjdl6wiebxa",
+    "price": 490,
+    "dosage": "2-3 ml per litre or 1000 ml per acre",
+    "applicationMethod": "Drip irrigation or foliar spray",
+    "description": "Pure blend of cold-extracted marine Ascophyllum seaweed and Potassium Humate 12%. Boosts chlorophyll, root elongation, and flower setting.",
+    "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Composition",
+        "value": "Potassium Humate + Marine Seaweed Extract"
+      },
+      {
+        "key": "Price",
+        "value": "₹490"
+      },
+      {
+        "key": "Dosage",
+        "value": "1000 ml per acre"
+      }
+    ],
+    "features": [
+      "100% water-soluble organic growth promoter",
+      "Prevents flower and fruit shedding under stress"
+    ],
+    "benefits": [
+      "Explosive vegetative growth and higher grade fruit size"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:38:33.625Z",
+    "updatedAt": "2026-11-19T12:38:33.625Z"
+  },
+  {
+    "_id": "sab_mwnjdl7b14aci",
+    "name": "SAB Bacillus Thuringiensis (Bio Insecticide)",
+    "slug": "sab-bacillus-thuringiensis-bio-insecticide",
+    "category": "Bio insecticides",
+    "categoryId": "sab_mwnjdl6v5epgk",
+    "price": 480,
+    "dosage": "2.5 ml per litre of water",
+    "applicationMethod": "Foliar spray on leaf undersides",
+    "description": "Specialized endotoxin-producing bio-insecticide highly toxic to lepidopteran larvae, diamondback moths, and pod borers.",
+    "image": "https://images.unsplash.com/photo-1592417817098-8f3d6eb22509?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1592417817098-8f3d6eb22509?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Active Ingredient",
+        "value": "Bacillus thuringiensis var. kurstaki"
+      },
+      {
+        "key": "Price",
+        "value": "₹480"
+      },
+      {
+        "key": "Dosage",
+        "value": "2.5 ml per litre of water"
+      }
+    ],
+    "features": [
+      "Selective action against targeted caterpillar pests",
+      "Safe for livestock and humans"
+    ],
+    "benefits": [
+      "Quick cessation of leaf damage within 24 hours of spray"
+    ],
+    "status": "Active",
+    "createdAt": "2026-11-19T12:38:33.623Z",
+    "updatedAt": "2026-11-19T12:38:33.623Z"
+  },
+  {
+    "_id": "sab_mwnjdl791ia7k",
+    "name": "SAB Beauveria Bassiana (Bio Pesticide)",
+    "slug": "sab-beauveria-bassiana-bio-pesticide",
+    "category": "Bio pesticides",
+    "categoryId": "sab_mwnjdl6t4gyqv",
+    "price": 420,
+    "dosage": "500 ml - 1000 ml per acre",
+    "applicationMethod": "Foliar spray during evening hours",
+    "description": "An entomopathogenic fungus that penetrates insect cuticles, eliminating harmful caterpillars, whiteflies, aphids, thrips, and beetles organically.",
+    "image": "https://images.unsplash.com/photo-1596742578443-7682ef5251cd?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596742578443-7682ef5251cd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Active Strain",
+        "value": "Beauveria bassiana 1.15% WP"
+      },
+      {
+        "key": "Target Pests",
+        "value": "Bollworms, caterpillars, mealybugs, thrips"
+      },
+      {
+        "key": "Price",
+        "value": "₹420"
+      },
+      {
+        "key": "Dosage",
+        "value": "500 ml - 1000 ml per acre"
+      }
+    ],
+    "features": [
+      "Zero chemical residue; harmless to predatory insects and honey bees",
+      "Safe for organic vegetable and fruit orchards"
+    ],
+    "benefits": [
+      "Effective natural biological pest control without toxicity",
+      "Prevents pesticide resistance development"
+    ],
+    "status": "Active",
+    "createdAt": "2026-11-19T12:38:33.621Z",
+    "updatedAt": "2026-11-19T12:38:33.621Z"
+  },
+  {
+    "_id": "sab_mwnjdl776jd15",
+    "name": "SAB Trichoderma Viride (Biocontrol Agent)",
+    "slug": "sab-trichoderma-viride-biocontrol-agent",
+    "category": "Biocontrol agents",
+    "categoryId": "sab_mwnjdl6rz3q06",
+    "price": 350,
+    "dosage": "1000 ml / 1 kg per acre",
+    "applicationMethod": "Seed treatment, soil drenching, or compost mix",
+    "description": "A biological control agent active against root rot, collar rot, damping off, and Fusarium wilts. Triggers systemic acquired resistance in all crops.",
+    "image": "https://images.unsplash.com/photo-1622383563227-04401ab4e5ea?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1622383563227-04401ab4e5ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Organism",
+        "value": "Trichoderma viride 1.5% W.P."
+      },
+      {
+        "key": "Spore Count",
+        "value": "2 x 10^6 CFU/g min"
+      },
+      {
+        "key": "Price",
+        "value": "₹350"
+      },
+      {
+        "key": "Dosage",
+        "value": "1000 ml / 1 kg per acre"
+      }
+    ],
+    "features": [
+      "Natural antagonism against soil-borne fungal pathogens",
+      "Protects banana, vegetable, pulse, and sugarcane crops from wilt",
+      "100% residue free organic formulation"
+    ],
+    "benefits": [
+      "Prevents catastrophic crop loss from root and collar rot diseases",
+      "Improves seedling survival rate during initial transplanting"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:38:33.619Z",
+    "updatedAt": "2026-11-19T12:38:33.619Z"
+  },
+  {
+    "_id": "sab_mwnjdl7422fm8",
+    "name": "Paddy special - compo of 3 biofertilizer",
+    "slug": "paddy-special-compo-of-3-biofertilizer",
+    "category": "Biofertilizer",
+    "categoryId": "sab_mwnjdl6m3ctub",
+    "price": 550,
+    "dosage": "1000 ml per acre",
+    "applicationMethod": "Soil application by sowing",
+    "description": "Paddy Special is an elite 3-in-1 composite biofertilizer scientifically engineered for rice fields. Combines high-potency nitrogen fixing Azospirillum, phosphate solubilizing bacteria (PSB), and potassium mobilizing bacteria (KMB) to fulfill complete organic N-P-K nutrition in a single application.",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Product Type",
+        "value": "3-in-1 Composite Biofertilizer"
+      },
+      {
+        "key": "Recommended Dosage",
+        "value": "1000 ml per acre"
+      },
+      {
+        "key": "Retail Price",
+        "value": "₹550 per 1000 ml"
+      },
+      {
+        "key": "Application Method",
+        "value": "Soil application by sowing"
+      },
+      {
+        "key": "Microbial Strains",
+        "value": "Azospirillum + Phosphobacteria + Potash Bacteria"
+      },
+      {
+        "key": "Viable Count",
+        "value": "1 x 10^9 CFU/ml min"
+      }
+    ],
+    "features": [
+      "Composite 3-in-1 bio-fertilizer formulation for paddy cultivation",
+      "Provides complete N P K biological nutrition to paddy plants",
+      "Increases productive tillers and panicle density significantly",
+      "Builds natural resistance against diseases, insects, and pest attacks",
+      "Reduces synthetic chemical fertilizer dependency by 30-40%"
+    ],
+    "benefits": [
+      "Increases paddy grain yield by up to 50%",
+      "Provides N P K fertilizer biologically directly to the plant root rhizosphere",
+      "Accelerates vigorous tillering and heavy grain weight at harvest",
+      "Enhances soil fertility and water-holding capacity across paddy seasons"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:38:33.616Z",
+    "updatedAt": "2026-11-19T12:38:33.616Z"
+  },
+  {
+    "_id": "sab_mwnihy6gf8nfa",
+    "name": "SAB Marine Seaweed Bio-Extract Tonic",
+    "slug": "sab-marine-seaweed-bio-extract-tonic",
+    "category": "Plant Growth Regulators & Stimulants",
+    "categoryId": "sab_mwnihy65ytqln",
+    "description": "Manufactured from sustainably harvested Ascophyllum nodosum marine algae using cold-enzymatic extraction. Delivers natural betaines, mannitol, cytokinins, and organic trace elements to maximize canopy foliage, prevent flower drop, and accelerate fruit sizing.",
+    "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Source",
+        "value": "Ascophyllum nodosum pure marine extract"
+      },
+      {
+        "key": "Active Bio-nutrients",
+        "value": "Alginic acid, laminarin, natural mannitol"
+      },
+      {
+        "key": "Dosage",
+        "value": "2-3 ml per litre of water (Foliar spray)"
+      },
+      {
+        "key": "Compatibility",
+        "value": "Compatible with all biocare sprays"
+      }
+    ],
+    "features": [
+      "100% bio-available organic plant revitalizer",
+      "Prevents flower shedding under extreme summer heat or moisture stress",
+      "Accelerates uniform fruit development and grade-A crop classification"
+    ],
+    "benefits": [
+      "Superior yield with premium commercial cosmetic appeal",
+      "Immediate revitalizing effect visible within 48-72 hours of spray"
+    ],
+    "status": "Active",
+    "createdAt": "2026-11-19T12:13:57.448Z",
+    "updatedAt": "2026-11-19T12:13:57.448Z"
+  },
+  {
+    "_id": "sab_mwnihy6ecozdo",
+    "name": "SAB Bio-Humic Gold Liquid Organic Complex",
+    "slug": "sab-bio-humic-gold-liquid-organic-complex",
+    "category": "Organic Soil Conditioners",
+    "categoryId": "sab_mwnihy662gbv1",
+    "description": "Super-purified potassium humate enriched with fulvic acid, organic carbon, and bio-stimulant plant amino acids. Enhances cation exchange capacity (CEC), optimizes soil water holding capacity, and breaks down hard crusts in high-clay or saline fields.",
+    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Humic Acid Content",
+        "value": "12% w/v min"
+      },
+      {
+        "key": "Fulvic Acid Content",
+        "value": "3% w/v min"
+      },
+      {
+        "key": "Organic Carbon",
+        "value": "20% min"
+      },
+      {
+        "key": "Solubility",
+        "value": "100% Water Soluble"
+      },
+      {
+        "key": "Dosage",
+        "value": "1-2 Litres per acre via Drip or Flood"
+      }
+    ],
+    "features": [
+      "Conditions compacted soil and stimulates natural earthworm activity",
+      "Chelates micro-minerals (Fe, Zn, Mn) making them readily available",
+      "Prevents nutrient leaching during heavy rains and irrigation"
+    ],
+    "benefits": [
+      "Explosive white root development within 7 to 10 days",
+      "Significantly boosts drought resistance and soil moisture retention",
+      "Improves produce color, sweetness (Brix value), and market shelf life"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:13:57.446Z",
+    "updatedAt": "2026-11-19T12:13:57.446Z"
+  },
+  {
+    "_id": "sab_mwnihy6dpynu2",
+    "name": "SAB Pseudomonas Fluorescens Bio-Protectant",
+    "slug": "sab-pseudomonas-fluorescens-bio-protectant",
+    "category": "Bio-Pesticides & Bio-Fungicides",
+    "categoryId": "sab_mwnihy63hsu1n",
+    "description": "A versatile plant growth-promoting rhizobacterium (PGPR) acting as an eco-friendly bio-fungicide and bactericide. Secretes siderophores (iron-chelating agents) and salicylic acid to suppress bacterial and fungal leaf spots, blast, and sheath rot.",
+    "image": "https://images.unsplash.com/photo-1596742578443-7682ef5251cd?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596742578443-7682ef5251cd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Active Organism",
+        "value": "Pseudomonas fluorescens"
+      },
+      {
+        "key": "CFU Count",
+        "value": "1 x 10^9 CFU/ml min"
+      },
+      {
+        "key": "Application",
+        "value": "Foliar spray, Seed dipping, Soil drenching"
+      },
+      {
+        "key": "Shelf Life",
+        "value": "12 Months"
+      }
+    ],
+    "features": [
+      "Controls bacterial leaf blight in paddy and powdery mildew in hort crops",
+      "Produces 2,4-diacetylphloroglucinol (DAPG) natural antibiotics",
+      "Enhances stress tolerance in crops against temperature fluctuations"
+    ],
+    "benefits": [
+      "Prevents disease onset without chemical toxicity",
+      "Restores vibrant chlorophyll development and leaf health"
+    ],
+    "status": "Active",
+    "createdAt": "2026-11-19T12:13:57.445Z",
+    "updatedAt": "2026-11-19T12:13:57.445Z"
+  },
+  {
+    "_id": "sab_mwnihy6besret",
+    "name": "SAB Trichoderma Viride Bio-Fungicide",
+    "slug": "sab-trichoderma-viride-bio-fungicide",
+    "category": "Bio-Pesticides & Bio-Fungicides",
+    "categoryId": "sab_mwnihy63hsu1n",
+    "description": "SAB Trichoderma Viride is an antagonizing biocontrol fungus against soil-borne fungal phytopathogens including Fusarium, Rhizoctonia, Pythium, and Sclerotium. It colonizes plant roots, produces antifungal enzymes, and triggers systemic acquired resistance.",
+    "image": "https://images.unsplash.com/photo-1622383563227-04401ab4e5ea?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1622383563227-04401ab4e5ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Active Organism",
+        "value": "Trichoderma viride 1.5% W.P."
+      },
+      {
+        "key": "Spore Count",
+        "value": "2 x 10^6 CFU/g min"
+      },
+      {
+        "key": "Mode of Action",
+        "value": "Mycoparasitism, Antibiosis, Competition"
+      },
+      {
+        "key": "Dosage",
+        "value": "1 kg - 2 kg per acre mixed with organic compost"
+      }
+    ],
+    "features": [
+      "Broad-spectrum protection against root rot, collar rot, and damping-off",
+      "Prevents Panama wilt in banana and vascular wilts in vegetables",
+      "Zero chemical residue; perfectly certified for organic farming"
+    ],
+    "benefits": [
+      "Eliminates heavy crop losses caused by deadly soil wilt fungi",
+      "Promotes vigorous seed germination and seedling establishment",
+      "Safe for beneficial earthworms and predatory insects"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:13:57.443Z",
+    "updatedAt": "2026-11-19T12:13:57.443Z"
+  },
+  {
+    "_id": "sab_mwnihy6akj9m8",
+    "name": "SAB Phosphobacteria (PSB Bio-Fertilizer)",
+    "slug": "sab-phosphobacteria-psb-bio-fertilizer",
+    "category": "Bio-Fertilizers",
+    "categoryId": "sab_mwnihy62mvbml",
+    "description": "SAB Phosphobacteria contains specialized Bacillus megaterium strains that produce organic acids to dissolve insoluble tricalcium phosphate and rock phosphate into plant-absorbable orthophosphate ions.",
+    "image": "https://images.unsplash.com/photo-1592417817098-8f3d6eb22509?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1592417817098-8f3d6eb22509?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Active Microorganism",
+        "value": "Bacillus megaterium var. phosphaticum"
+      },
+      {
+        "key": "Viable Cell Count",
+        "value": "1 x 10^9 CFU/ml min"
+      },
+      {
+        "key": "Efficiency",
+        "value": "Solubilizes 30-50 kg P2O5 per hectare"
+      },
+      {
+        "key": "Application Method",
+        "value": "Soil application, Seed treatment, Drip fertigation"
+      },
+      {
+        "key": "Target Crops",
+        "value": "Cereals, Pulses, Oilseeds, Vegetables, Fruits"
+      }
+    ],
+    "features": [
+      "Unlocks fixed soil phosphorus inaccessible to plant root systems",
+      "Reduces DAP / Superphosphate requirement by up to 30%",
+      "Stimulates root proliferation and early plant vigor"
+    ],
+    "benefits": [
+      "Improves flower retention, grain filling, and fruit set",
+      "Strengthens plant resistance against soil water deficits",
+      "Restores degraded soil fertility over continuous cropping seasons"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:13:57.442Z",
+    "updatedAt": "2026-11-19T12:13:57.442Z"
+  },
+  {
+    "_id": "sab_mwnihy68opoib",
+    "name": "SAB Azospirillum Bio-Inoculant",
+    "slug": "sab-azospirillum-bio-inoculant",
+    "category": "Bio-Fertilizers",
+    "categoryId": "sab_mwnihy62mvbml",
+    "description": "SAB Azospirillum is a premium nitrogen-fixing bio-fertilizer containing high-potency Azospirillum brasilense. It fixes atmospheric nitrogen in the rhizosphere of non-leguminous crops, synthesizes phytohormones like IAA and gibberellins, and stimulates root growth for increased nutrient uptake.",
+    "image": "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592417817098-8f3d6eb22509?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specifications": [
+      {
+        "key": "Active Microorganism",
+        "value": "Azospirillum brasilense"
+      },
+      {
+        "key": "Viable Cell Count",
+        "value": "1 x 10^9 CFU/ml min (Liquid)"
+      },
+      {
+        "key": "pH Level",
+        "value": "6.5 - 7.5"
+      },
+      {
+        "key": "Recommended Dosage",
+        "value": "500 ml - 1 Liter per acre"
+      },
+      {
+        "key": "Target Crops",
+        "value": "Paddy, Sugarcane, Maize, Millets, Cotton"
+      },
+      {
+        "key": "Packaging Form",
+        "value": "Carrier powder & Liquid formulation"
+      }
+    ],
+    "features": [
+      "Biological nitrogen fixation saving 25-30% synthetic chemical urea",
+      "Enhances root elongation, lateral root formation, and surface area",
+      "Produces natural growth promoters (Auxins, Cytokinins, Gibberellins)",
+      "Safe for environmental ecosystems and beneficial soil microfauna"
+    ],
+    "benefits": [
+      "Boosts crop yield by 15% to 25% across diverse agro-climatic zones",
+      "Improves soil health, biological fertility, and crumb structure",
+      "Cost-effective eco-friendly sustainable agriculture solution"
+    ],
+    "status": "Featured",
+    "createdAt": "2026-11-19T12:13:57.440Z",
+    "updatedAt": "2026-11-19T12:13:57.440Z"
+  }
+]

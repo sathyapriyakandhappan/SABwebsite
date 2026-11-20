@@ -1,0 +1,15 @@
+{
+  "name": "sab-website",
+  "version": "1.0.0",
+  "description": "Sri Amman Biocare - Full Website with User & Admin Panels",
+  "scripts": {
+    "start": "concurrently \"npm run start --prefix backend\" \"npm run dev --prefix frontend\"",
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
+    "backend": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

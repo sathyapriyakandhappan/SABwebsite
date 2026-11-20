@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "sab_mwnjdl7q0trq4",
+    "title": "Field Training & Hands-On Workshop: Spirulina & Azolla Cultivation",
+    "institution": "SAB Bio-Research Center, Pudukkottai Main Road, Thirukkanurpatti",
+    "topic": "Raceway Pond Management, Harvesting, Drying and Animal Feed Formulation",
+    "date": "2025-10-15",
+    "image": "/uploads/program4.jpeg",
+    "images": [
+      "/uploads/program4.jpeg"
+    ],
+    "description": "Field demonstration held at Sri Amman Biocare practical demo plots for agriculture college students demonstrating live Azolla multiplication pits and high-protein Spirulina drying techniques.",
+    "category": "Field Visit",
+    "createdAt": "2026-11-19T12:38:33.638Z",
+    "updatedAt": "2026-11-19T12:38:33.638Z"
+  },
+  {
+    "_id": "sab_mwnjdl7pe6iwu",
+    "title": "Official MoU Signing Ceremony for Technical Sharing & Student Placements",
+    "institution": "Autonomous University Department of Biotechnology & Agriculture",
+    "topic": "Academic-Industry Partnership for Student Internships, Ph.D. Research & Placements",
+    "date": "2025-11-28",
+    "image": "/uploads/program3.jpeg",
+    "images": [
+      "/uploads/program3.jpeg",
+      "/uploads/program1.jpeg"
+    ],
+    "description": "Sri Amman Biocare officially signed a formal Memorandum of Understanding (MoU) with leading university departments to offer student internships, project research assistance, and direct technical placement opportunities.",
+    "category": "MoU Signing",
+    "createdAt": "2026-11-19T12:38:33.637Z",
+    "updatedAt": "2026-11-19T12:38:33.637Z"
+  },
+  {
+    "_id": "sab_mwnjdl7nm9mcd",
+    "title": "Entrepreneurship Development Program: Mushroom & Vermicompost",
+    "institution": "Arts and Science College, Thanjavur & Self-Help Group Training Hall",
+    "topic": "Oyster Mushroom Cultivation, Spawn Production & Vermicompost Bed Setup",
+    "date": "2026-01-20",
+    "image": "/uploads/program2.jpeg",
+    "images": [
+      "/uploads/program2.jpeg",
+      "/uploads/program4.jpeg"
+    ],
+    "description": "Vocational self-employment training program conducted for rural unemployed youth and self-help group women, covering low-cost mushroom huts, substrate sterilization, and vermiwash harvesting.",
+    "category": "Entrepreneurship Training",
+    "createdAt": "2026-11-19T12:38:33.635Z",
+    "updatedAt": "2026-11-19T12:38:33.635Z"
+  },
+  {
+    "_id": "sab_mwnjdl7l1i679",
+    "title": "Resource Person: Biofertilizer & Biocontrol Production Technologies",
+    "institution": "College of Agricultural Technology & University Research Campus",
+    "topic": "Industrial Mass Fermentation of Azospirillum, Trichoderma and Commercialization",
+    "date": "2026-02-14",
+    "image": "/uploads/program1.jpeg",
+    "images": [
+      "/uploads/program1.jpeg",
+      "/uploads/program2.jpeg"
+    ],
+    "description": "Dr. R. Senthilkumar delivered an intensive hands-on resource lecture to B.Sc. and M.Sc. Agriculture students on setting up commercial biofertilizer units, microbial purity testing, and eco-friendly disease control.",
+    "category": "Resource Person",
+    "createdAt": "2026-11-19T12:38:33.633Z",
+    "updatedAt": "2026-11-19T12:38:33.633Z"
+  }
+]
